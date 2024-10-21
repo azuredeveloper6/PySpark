@@ -51,6 +51,9 @@
 1. Open Visual Studio and create a new Python notebook.
 2. When you run the code, Visual Studio may prompt you to trust the source and will require you to install kernels. Follow the instructions provided by the VS Code editor.
 ![image](https://github.com/user-attachments/assets/8aa71c3b-e190-4c86-ad88-742bf520d5ae)
+3. Refer the spark example - spark-example.ipynb
 
+## BONUS - Challenges faced 
+1) TBD
 
 
